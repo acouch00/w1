@@ -1,0 +1,22 @@
+body {
+  min-height: 1000px;
+  padding-top: 70px;
+}
+
+.portfolio-item {
+  margin-bottom: 25px;
+}
+
+.my-jumbotron {
+  background: url(./docs/examples/cover/paper.jpg); 
+  background-repeat:repeat;
+  padding-bottom: 10px;
+}
+
+.my-navbar-brand {
+  font-family: 'Lobster Two', cursive;
+}
+
+.my-navbar {
+  padding-top: 10px;
+}
